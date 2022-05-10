@@ -1,0 +1,31 @@
+*{
+    background:black;
+    color:white;
+}
+
+h1{
+    font-family:monospace;
+    font-size:50px;
+}
+
+input{
+    width:90%;
+}
+
+textarea{
+    width:90%;
+    height:350px;
+}
+
+button{
+    width:90%;
+    background:#111111;
+}
+
+#logs{
+    width:90%;
+    background:#efefef;
+    overflow: scroll;
+    color:black;
+    font-family:monospace;
+}
